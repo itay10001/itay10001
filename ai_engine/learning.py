@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Dict, Iterable, Optional
+from typing import Dict, Iterable, Optional, TYPE_CHECKING
 import random
 
-from .core import Action, WorldState
+if TYPE_CHECKING:
+    from .core import Action, WorldState
 
 
 @dataclass

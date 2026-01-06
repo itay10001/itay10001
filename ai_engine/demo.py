@@ -11,7 +11,7 @@ def main() -> None:
         Action(
             name="gather_wood",
             cost=1.0,
-            preconditions={"has_axe": True},
+            preconditions={},
             effects={"wood": 1},
             utility=lambda state: 5.0 if state.data.get("wood", 0) == 0 else 1.0,
         ),

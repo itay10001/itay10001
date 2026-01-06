@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Dict, Iterable, List, Optional, Tuple, TYPE_CHECKING
 import heapq
 
-from .core import Action, WorldState
+if TYPE_CHECKING:
+    from .core import Action, WorldState
 
 
 @dataclass
