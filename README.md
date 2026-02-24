@@ -1,12 +1,79 @@
-- 👋 Hi, I’m @itay10001
-- 👀 I’m interested in learning more about programming
-- 🌱 I’m currently learning Python but would like to start learning javascript
-- 
-- 📫 How to reach me: itay8903@gmai.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: this is my first year of learning Python but i am learning on colab
+🤖 Itay – Robotics Software Developer
 
-<!---
-itay10001/itay10001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Competitive robotics programmer focused on control systems, hardware abstraction, and match-reliable architecture.
+
+I build structured, debuggable robot software designed to perform under competition pressure.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+🏆 FIRST Tech Challenge – Programming Lead
+
+Architect modular FTC robot codebases
+
+Design hardware abstraction layers for motors, servos, and sensors
+
+Coordinate multi-mechanism actions through structured helper systems
+
+Integrate vision-based targeting
+
+Optimize for rapid debugging during matches
+
+Reliability and clarity are treated as engineering requirements — not afterthoughts.
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+🔧 Technical Focus
+
+Languages
+
+Java (FTC SDK)
+
+Core Areas
+
+Real-time control logic
+
+System abstraction design
+
+Mechanism synchronization
+
+Fault isolation under time constraints
+
+Digital logic fundamentals (ALU design in Logisim)
+
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+🧠 Engineering Mindset
+
+Systems over scripts
+
+Structure over shortcuts
+
+Predictable behavior over quick fixes
+
+Debuggability is part of architecture
+
+
+
+________________________________________________________________________________________________________________________________________________
+
+
+
+🎯 Current Direction
+
+Advanced debugging methodology
+
+Scalable robotics architecture
+
+Deeper control systems knowledge
+
+CPU and instruction-level design exploration
