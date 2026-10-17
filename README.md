@@ -1,79 +1,45 @@
-🤖 Itay – Robotics Software Developer
+# Hi, I'm Itay 👋
 
-Competitive robotics programmer focused on control systems, hardware abstraction, and match-reliable architecture.
+**Robotics | Embedded Systems | Electronics | AI**
 
-I build structured, debuggable robot software designed to perform under competition pressure.
+I enjoy building systems where software meets real hardware. My interests range from robot control and embedded electronics to custom AI models, digital logic, and simulation.
 
+## 🤖 Robotics
 
-________________________________________________________________________________________________________________________________________________
+- **Former FTC Programming Lead — Makers Assemble #32480.** Worked on Java-based robot control, field-centric mecanum drive, sensor integration, and coordinated intake/shooter mechanisms.
+- **FRC — Makers Assemble #5951.** Currently involved with the team, expanding my experience in electronics and learning the WPILib ecosystem.
+- **FTC mentoring.** Helping newer programmers understand robotics code, debugging, and system design.
 
+My main priorities are reliable behavior, readable architecture, and understanding *why* a system works—not just getting it to work once.
 
+## 🔧 Electronics & Embedded Systems
 
-🏆 FIRST Tech Challenge – Programming Lead
+I experiment with **ESP32, Raspberry Pi Pico, and Arduino** boards, connecting sensors, motors, and other hardware to software.
 
-Architect modular FTC robot codebases
+I'm also exploring power electronics, motor drivers, custom PCB design, and the practical challenges of building dependable physical systems.
 
-Design hardware abstraction layers for motors, servos, and sensors
+## 🧠 AI, Computing & Other Projects
 
-Coordinate multi-mechanism actions through structured helper systems
+- **Rivet:** A personal local-AI project involving custom transformer models, training experiments, and evaluation.
+- **Digital logic:** Exploring CPU architecture, instruction sets, and ALU design in Logisim.
+- **Game development & simulation:** Building prototypes and experimenting with game mechanics and robot simulation.
+- **Developer tools:** Creating small utilities that solve problems I run into.
 
-Integrate vision-based targeting
+## 💻 Tools & Technologies
 
-Optimize for rapid debugging during matches
+**Languages:** Java, Python, MicroPython  
+**Robotics:** FTC SDK, mecanum drive, sensors, vision systems; learning WPILib  
+**Hardware:** ESP32, Raspberry Pi Pico, Arduino, breadboards, PCB design  
+**Other:** Git, GitHub, Logisim, SolidWorks
 
-Reliability and clarity are treated as engineering requirements — not afterthoughts.
+## 📌 Selected Repositories
 
+- [RobotCode](https://github.com/itay10001/RobotCode) — FTC robotics code.
+- [GitHub Repo Instant Downloader](https://github.com/itay10001/GitHub-Repo-Instant-Downloader) — A utility for finding a project's releases and download options.
+- [Robotsimulator](https://github.com/itay10001/Robotsimulator) — Robot simulation experiments.
 
-________________________________________________________________________________________________________________________________________________
+## 🎯 What I'm Working Toward
 
+Deeper knowledge of control systems, embedded electronics, FRC software, and AI—through projects I can design, test, debug, and improve.
 
-
-🔧 Technical Focus
-
-Languages
-
-Java (FTC SDK)
-
-Core Areas
-
-Real-time control logic
-
-System abstraction design
-
-Mechanism synchronization
-
-Fault isolation under time constraints
-
-Digital logic fundamentals (ALU design in Logisim)
-
-
-
-________________________________________________________________________________________________________________________________________________
-
-
-
-🧠 Engineering Mindset
-
-Systems over scripts
-
-Structure over shortcuts
-
-Predictable behavior over quick fixes
-
-Debuggability is part of architecture
-
-
-
-________________________________________________________________________________________________________________________________________________
-
-
-
-🎯 Current Direction
-
-Advanced debugging methodology
-
-Scalable robotics architecture
-
-Deeper control systems knowledge
-
-CPU and instruction-level design exploration
+**Build. Test. Understand. Improve.**
